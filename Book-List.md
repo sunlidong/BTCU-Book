@@ -3,15 +3,20 @@
 
 ### 以太坊
 
-##### 书籍 
-《第一行代码——以太坊》-- 李宁著《第一行代码——以太坊》--李宁著   下载链接：https://pan.baidu.com/s/1E2xhH1bLPz_phBqfCCDCRQ 提取码：64hl  
-《以太坊技术详解与实战》-- 闫莺郑凯郭众鑫 编著   下载链接：https://pan.baidu.com/s/1uKa0rOqzyJJlZ2GsmIXBkg 提取码：h355
-《精通以太坊智能合约开发》-- 熊丽兵 编著   下载链接：https://pan.baidu.com/s/1ssudGWf44hRJA043Z08xDQ 提取码：ef25 
-《区块链2.0 以太坊应用开发指南》-- 赵其刚 编著   下载链接：https://pan.baidu.com/s/11QSOhRu6Ri456lbTA4niYg 提取码：r9dy 
-《去中心化应用 区块链技术概述》-- 吴海星 译   下载链接：https://pan.baidu.com/s/16Qt864jLIzXFvogDXJ2s9A 提取码：w5wo
+# 书籍 
+《第一行代码——以太坊》-- 李宁著 
+下载链接：https://pan.baidu.com/s/1E2xhH1bLPz_phBqfCCDCRQ 提取码：64hl  
+《以太坊技术详解与实战》-- 闫莺郑凯郭众鑫 编著   
+下载链接：https://pan.baidu.com/s/1uKa0rOqzyJJlZ2GsmIXBkg 提取码：h355
+《精通以太坊智能合约开发》-- 熊丽兵 编著   
+下载链接：https://pan.baidu.com/s/1ssudGWf44hRJA043Z08xDQ 提取码：ef25 
+《区块链2.0 以太坊应用开发指南》-- 赵其刚 编著   
+下载链接：https://pan.baidu.com/s/11QSOhRu6Ri456lbTA4niYg 提取码：r9dy 
+《去中心化应用 区块链技术概述》-- 吴海星 译   
+下载链接：https://pan.baidu.com/s/16Qt864jLIzXFvogDXJ2s9A 提取码：w5wo
 
 
-##### Architect
+# Architect
 
 - [以太坊白皮书](http://ethfans.org/wikis/以太坊白皮书) 讲解以太坊设计思路
 - [以太坊黄皮书](http://yellowpaper.io) 论证以太坊技术可能性 [中文版](https://github.com/yuange1024/ethereum_yellowpaper/blob/master/Paper_Chinese.pdf)
@@ -22,7 +27,7 @@
 - [以太坊源码阅读](http://www.cnblogs.com/baizx/category/1011749.html)
 - [PoW模式下交易平均要35秒？](http://ethfans.org/posts/current-dynamics-of-transaction-inclusion-on-ethereum)
 
-##### Tutorials
+# Tutorials
 
 - [以太坊从零开始入门](http://www.jianshu.com/p/220130b39e22)
 - [以太坊开发入门经验](http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
@@ -40,19 +45,19 @@
 - [EthList](https://github.com/Scanate/EthList) 以太坊开发相关学习资料收集
 
 
-##### Videos
+# Videos
 
 - [Building Ethereum DApps using Solidity](https://www.youtube.com/watch?v=9_coM_g7Dbg&list=PLH4m2oS2ratdoHFEkGvwvd7TkeTv4sa7Z) 视频教程
 - [Devcon 0 (Berlin, 2014) talks and videos](https://www.youtube.com/watch?v=_BvvUlKDqp0&amp;list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS)
 - [Devcon 1 (London, 2015) talks and videos](https://www.youtube.com/watch?v=BUARih8_f68&list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk)
 - [Devcon 2 (Shanghai, 2016) talks and videos](https://www.youtube.com/watch?v=1wayaZ1-iBE&list=PLaM7G4Llrb7xqzgOwbvNv63_KM7VH84Rd)
 - [**Devcon 3** (Cancún, 2017) website and registration](http://ethereumfoundation.org/devcon3/)
-##### Explorer
+# Explorer
 - [Etherscan](https://etherscan.io) 以太坊区块链浏览器
 - [Ethplorer](https://ethplorer.io) 以太坊区块链浏览器，提供API调用
 - [Eth Gas Station](https://ethgasstation.info/index.php) 以太坊Gas目前定价
 
-##### Wallet
+# Wallet
 
 - [My Ether Wallet](https://myetherwallet.com) 网页版以太坊钱包 [源码](https://github.com/kvhnuke/etherwallet)
 - [MetaMask](https://metamask.io/) Chrome Extension浏览器插件版
@@ -64,7 +69,7 @@
 - [Ledger Nano S](https://theethereum.wiki/w/index.php/Ledger_Nano_S) 硬件钱包
 - [Trezor](https://blog.trezor.io/trezor-integration-with-myetherwallet-3e217a652e08) 硬件钱包
 
-##### Documents
+# Documents
 
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) 精通以太坊开发Oreilly开源书
 - [Solidity语言文档](http://www.tryblockchain.org/) 语言中文手册
@@ -73,31 +78,31 @@
 - [Open Zeppelin框架文档](http://zeppelin.tryblockchain.org/)
 - [Ethplorer接口](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API?from=etop) Ethplorer接口文档
 
-##### SDK
+# SDK
 
 - [Truffle](https://github.com/trufflesuite/truffle) 以太坊Dapp开发脚手架
 - [Cakeshop](https://github.com/jpmorganchase/cakeshop) 来自JP Morgan的以太坊可视化管理工具
 - [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) 用于编写安全的以太坊合约框架
 - [Web3j](https://github.com/web3j/web3j) 以太坊官方轻量级java SDK
 
-##### Enhance
+# Enhance
 
 - [Quorum](https://github.com/jpmorganchase/quorum) 来自JP Morgan基于Go-Ethereum数据隐私加强的以太坊实现
 - [BCOS](https://github.com/bcosorg/bcos) 来自微众银行的增强版以太坊实现
 - [Presto-Ethereum](https://github.com/xiaoyao1991/presto-ethereum) 以太坊增加Presto的SQL访问能力
 
-##### Examples
+# Examples
 
 
 - [status-im](https://github.com/status-im/status-network-token) status.im项目开源代码
 
-##### Social
+# Social
 
 - [dharma](https://dharma.io/) 第三方增信[源码](https://github.com/dharmaprotocol/dharma-cli)
 - [Chronobank](https://chronobank.io/) 共享机制
 - [slockit](https://github.com/slockit/smart-contract) Slock.it项目使用的智能合约
 
-##### Exchange
+# Exchange
 
 - [0x](https://www.0xproject.com/otc) 0x交易所[源码](https://github.com/0xProject/contracts)
 - [ethdelf](https://etherdelta.github.io/#ZRX-ETH) etherdelta交易所[源码](https://github.com/etherdelta/smart_contract)
@@ -105,12 +110,12 @@
 - [augur](https://augur.net/) 对赌交易所[源码](https://github.com/AugurProject)
 - [melonport](https://melonport.com/) 数字资产交易所[源码](https://github.com/melonproject)
 
-##### Cross Chain
+# Cross Chain
 
 - [Cosmos](https://cosmos.network) cosmos跨链交易，包括BTC到ETH[源码](https://github.com/cosmos)
 - [polkadot](https://polkadot.io) polkadot跨链，实现了一个轻量级以太坊客户端[源码](https://github.com/paritytech/parity)
 
-##### Token
+# Token
 
 - [Token Sale](http://vitalik.ca/general/2017/06/09/sales.html) 代币销售模型
 - [maker](https://makerdao.com/) Dai代币
